@@ -1,0 +1,12 @@
+{ 
+    "_id" : 1.0, 
+    "beverage" : 1.0, 
+    "quantity" : 25.0, 
+    "supplier" : 2.0
+}
+{ 
+    "_id" : 2.0, 
+    "beverage" : 3.0, 
+    "quantity" : 21.0, 
+    "supplier" : 1.0
+}

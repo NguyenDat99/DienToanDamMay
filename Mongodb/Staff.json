@@ -1,0 +1,24 @@
+{ 
+    "_id" : 123123.0, 
+    "name" : "Duc", 
+    "age" : 25.0
+}
+{ 
+    "_id" : 1231213.0, 
+    "name" : "Thinh", 
+    "age" : 25.0, 
+    "sex" : "male"
+}
+{ 
+    "_id" : 2.0, 
+    "name" : "Duc", 
+    "age" : 22.0, 
+    "role" : "quan li"
+}
+{ 
+    "_id" : 3.0, 
+    "name" : "Bob", 
+    "age" : 22.0, 
+    "role" : "quan li", 
+    "workTime" : "1"
+}

@@ -1,0 +1,38 @@
+{ 
+    "_id" : 1.0, 
+    "beverages" : [
+        {
+            "beverage" : 1.0, 
+            "quantity" : 1.0
+        }, 
+        {
+            "beverage" : 2.0, 
+            "quantity" : 1.0
+        }, 
+        {
+            "beverage" : 3.0, 
+            "quantity" : 1.0
+        }
+    ], 
+    "table" : 1.0, 
+    "staff" : 1.0
+}
+{ 
+    "_id" : 2.0, 
+    "beverages" : [
+        {
+            "beverage" : 1.0, 
+            "quantity" : 1.0
+        }, 
+        {
+            "beverage" : 2.0, 
+            "quantity" : 1.0
+        }, 
+        {
+            "beverage" : 3.0, 
+            "quantity" : 1.0
+        }
+    ], 
+    "table" : 2.0, 
+    "staff" : 2.0
+}
